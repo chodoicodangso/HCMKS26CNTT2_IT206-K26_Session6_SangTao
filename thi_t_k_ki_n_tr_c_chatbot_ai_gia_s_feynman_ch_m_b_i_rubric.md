@@ -1,7 +1,4 @@
 BƯỚC 1: THIẾT KẾ GIAO TIẾP (ROUTING)
-
-Hệ thống Chatbot AI được thiết kế gồm 6 endpoint routing chính để quản lý dữ liệu bài học, tiêu chí chấm (Rubric) và lịch sử học tập của học viên:
-
 | Method | Endpoint | Mục đích sử dụng trong hệ thống |
 | --- | --- | --- |
 | GET | /api/v1/list | Lấy danh sách toàn bộ bài tập, chủ đề học tập và bộ Rubric hiện có |
